@@ -1,0 +1,29 @@
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50rem;
+    box-shadow: 5px;
+}
+
+.box1{
+    background-color: aqua;
+    padding: 20px 20px 20px 20px;
+    height: 20px;
+    width: 2%;
+    margin-right: 20px;
+}
+
+.box2{
+    background-color: aqua;
+    padding: 20px 20px 20px 20px;
+    height: 20px;
+    width: 2%;
+    margin-right: 20px;
+}
+.box3{
+    background-color: aqua;
+    padding: 20px 20px 20px 20px;
+    height: 20px;
+    width: 2%;
+}
