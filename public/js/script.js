@@ -32,4 +32,4 @@ setInterval ( function() {
   gantiwarna(box1);
   gantiwarna(box2);
   gantiwarna(box3);
-}, 50);
+}, 100);
